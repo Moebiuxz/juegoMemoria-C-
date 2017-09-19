@@ -1,0 +1,9 @@
+c:\users\a_bun\documents\visual studio 2015\Projects\click\click\bin\Debug\click.exe.config
+c:\users\a_bun\documents\visual studio 2015\Projects\click\click\bin\Debug\click.exe
+c:\users\a_bun\documents\visual studio 2015\Projects\click\click\bin\Debug\click.pdb
+c:\users\a_bun\documents\visual studio 2015\Projects\click\click\obj\Debug\click.csprojResolveAssemblyReference.cache
+c:\users\a_bun\documents\visual studio 2015\Projects\click\click\obj\Debug\click.Form1.resources
+c:\users\a_bun\documents\visual studio 2015\Projects\click\click\obj\Debug\click.Properties.Resources.resources
+c:\users\a_bun\documents\visual studio 2015\Projects\click\click\obj\Debug\click.csproj.GenerateResource.Cache
+c:\users\a_bun\documents\visual studio 2015\Projects\click\click\obj\Debug\click.exe
+c:\users\a_bun\documents\visual studio 2015\Projects\click\click\obj\Debug\click.pdb

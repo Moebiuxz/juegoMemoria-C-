@@ -1,0 +1,27 @@
+c:\users\alvaro\documents\visual studio 2015\Projects\juegoMemoria\juegoMemoria\bin\Debug\juegoMemoria.exe.config
+C:\Users\Alvaro\Documents\Visual Studio 2015\Projects\juegoMemoria\juegoMemoria\bin\Debug\juegoMemoria.exe
+C:\Users\Alvaro\Documents\Visual Studio 2015\Projects\juegoMemoria\juegoMemoria\bin\Debug\juegoMemoria.pdb
+C:\Users\Alvaro\Documents\Visual Studio 2015\Projects\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Documents\Visual Studio 2015\Projects\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.Form1.resources
+C:\Users\Alvaro\Documents\Visual Studio 2015\Projects\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.Juego.resources
+C:\Users\Alvaro\Documents\Visual Studio 2015\Projects\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.Properties.Resources.resources
+C:\Users\Alvaro\Documents\Visual Studio 2015\Projects\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.csproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\Visual Studio 2015\Projects\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.exe
+C:\Users\Alvaro\Documents\Visual Studio 2015\Projects\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.pdb
+C:\Users\Alvaro\Documents\Visual Studio 2015\Projects\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.IngresarNombre.resources
+C:\Users\Alvaro\Documents\Visual Studio 2015\Projects\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.Record.resources
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\bin\Debug\juegoMemoria.exe.config
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.exe
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.pdb
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\bin\Debug\juegoMemoria.exe
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\bin\Debug\juegoMemoria.pdb
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.csprojResolveAssemblyReference.cache
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.Form1.resources
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.IngresarNombre.resources
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.Juego.resources
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.Properties.Resources.resources
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.Record.resources
+C:\Users\a_bun\Dropbox\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.csproj.GenerateResource.Cache
+C:\Users\a_bun\Dropbox\cuarto_semestre\programación_net\juegoMemoria\juegoMemoria\bin\Debug\juegoMemoria.exe.config
+C:\Users\a_bun\Dropbox\cuarto_semestre\programación_net\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.exe
+C:\Users\a_bun\Dropbox\cuarto_semestre\programación_net\juegoMemoria\juegoMemoria\obj\Debug\juegoMemoria.pdb
